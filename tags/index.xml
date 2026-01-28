@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on ToCliff 创作者导航</title>
-    <link>https://aixk.cc/tags/</link>
+    <link>https://tab.tocliff.com/tags/</link>
     <description>Recent content in Tags on ToCliff 创作者导航</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language><atom:link href="https://aixk.cc/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-CN</language><atom:link href="https://tab.tocliff.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

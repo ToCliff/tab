@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on AI侠客网</title>
+    <title>Tags on ToCliff 创作者导航</title>
     <link>https://aixk.cc/tags/</link>
-    <description>Recent content in Tags on AI侠客网</description>
+    <description>Recent content in Tags on ToCliff 创作者导航</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language><atom:link href="https://aixk.cc/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-CN</language><atom:link href="https://tab.tocliff.com/" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
